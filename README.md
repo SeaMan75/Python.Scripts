@@ -53,7 +53,3 @@ The script uses **Word’s built-in `SEQ` (Sequence) fields** for numbering, ena
    - Preserve Word’s native caption system for cross-referencing.
 
 > 💡 After running, press **Ctrl+A → F9** in Word to update all fields if numbers don’t appear immediately.
-
----
-
-This tool bridges the gap between manual document editing and full-fledged document generation frameworks — perfect for quick, reliable, and professional image insertion! 🖼️📄
